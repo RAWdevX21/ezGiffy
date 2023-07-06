@@ -1,0 +1,76 @@
+{
+  "name": "ezGiffy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This user-friendly module allows you to easily create, edit, and convert animated GIFs, APNGs, WebPs, and AVIFs with Node.js. Enhance your digital content with captivating animations effortlessly.",
+  "main": "ezGiffy.js",
+  "scripts": {
+    "giffy": "node ezGiffy.js",
+    "build": "giffy ezGiffy.js build",
+    "upload-video": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAWdevX21/ezGiffy.git"
+  },
+  "keywords": [
+    "gif",
+    "giphy",
+    "giffy",
+    "gif",
+    "cli",
+    "terminal",
+    "command-line",
+    "ezgif",
+    "FFMPEG",
+    "magick",
+    "imagemagick",
+    "video to GIF",
+    "images to GIF",
+    "MP4 to GIF",
+    "WebM to GIF",
+    "AVI to GIF",
+    "MOV to GIF",
+    "FLV to GIF",
+    "JPEG to GIF",
+    "PNG to GIF",
+    "GIF to MP4",
+    "transparent GIF",
+    "frame rate",
+    "FPS",
+    "output GIF",
+    "pixel",
+    "giffy",
+    "build",
+    "img",
+    "file",
+    "video",
+    "images",
+    "animation"
+  ],
+  "author": "RAWcoding.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RAWdevX21/ezGiffy/issues"
+  },
+  "homepage": "https://github.com/RAWdevX21/ezGiffy#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.2.1",
+    "axios": "^1.4.0",
+    "chalk-cli": "^5.0.1",
+    "ffmpeg-static": "^5.1.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dot-prop": "^8.0.1",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.1.1",
+    "get-stdin": "^9.0.0",
+    "glob": "^10.3.1",
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^9.2.7",
+    "meow": "^12.0.1",
+    "path": "^0.12.7",
+    "semver": "^7.5.3"
+  }
+}

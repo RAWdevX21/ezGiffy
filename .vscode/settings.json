@@ -1,0 +1,8 @@
+{
+  "totvsLanguageServer.welcomePage": false,
+  "workbench.editor.enablePreviewFromCodeNavigation": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "markdown.preview.typographer": true,
+  "livePreview.tasks.runTaskWithExternalPreview": true,
+  "markdown.extension.preview.autoShowPreviewToSide": true
+}
