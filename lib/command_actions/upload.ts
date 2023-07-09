@@ -1,5 +1,5 @@
 import path from "path";
-import router from "../../source/nodes/router.js";
+import router from "../../source/router";
 
 const inform = console.log;
 
